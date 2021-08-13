@@ -12,7 +12,6 @@
 ## https://www.kornferry.com/
 
 ## https://inteleagent.io
-## http://net-winner.com
 ## https://nakultanta.github.io/Trailerstop/index.html
 ## https://nakultanta.github.io/pathmoney/
 ## https://nakultanta.github.io/valyoux/home.html
